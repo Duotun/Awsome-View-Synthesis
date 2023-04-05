@@ -26,9 +26,9 @@ for Anti-Aliasing Neural Radiance Fields](https://jonbarron.info/mipnerf/), Barr
 <details open>
 <summary>Dynamic Scenes</summary>
 
-- []
-- [PAC-NeRF]
-- KK
+- [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://www.albertpumarola.com/research/D-NeRF/index.html) | [github](https://github.com/albertpumarola/D-NeRF)
+- PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification, Li et al., ICLR 2023 | [github](https://github.com/xuan-li/PAC-NeRF)
+- [InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](https://tijiang13.github.io/InstantAvatar/), Jiang et al.,
 
 </details>
 
@@ -36,21 +36,30 @@ for Anti-Aliasing Neural Radiance Fields](https://jonbarron.info/mipnerf/), Barr
 <summary>Pose</summary>
 
 - [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://nope-nerf.active.vision/), Bian et al., CVPR 2023 
-- []
-  
+
 </details>
 
 <details open>
 <summary>Reconstruction & Lighting</summary>
 
-- []
+- [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://totoro97.github.io/projects/f2-nerf/), Wang et al., CVPR 2023
+- [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://lingjie0206.github.io/papers/NeuS/) | [github](https://github.com/Totoro97/NeuS)
 
 </details>
 
 ---
 # :black_joker: Multiple Sphere Images (MSIs)
-An overall
+Papers in this section are not so convenient to group because of the less popularity compared to the NeRF. Research in MSIs is quite useful and meaningful for panorama video applications, especially 6 DOF VR videos. 
 
+should revist the papers on mpi
+
+<details open>
+<summary>Quality & Fast Inference</summary>
+
+- [MatryODShka: Real-time 6DoF Video
+View Synthesis using Multi-Sphere Images](https://visual.cs.brown.edu/projects/matryodshka-webpage/)
+
+</details>
 
 # :jigsaw: Signed Distance Function (SDF)
 An overall deepsdf, bakedsdf
@@ -91,5 +100,14 @@ An overall deepsdf, bakedsdf
 
 <details open>
 <summary>SDF</summary>
+
+</details>
+
+<details open>
+<summary>3D Libraries</summary>
+
+- [Taichi](https://github.com/taichi-dev/taichi)
+- [Google / Visu3d](https://github.com/google-research/visu3d)
+- [Nvidia / Warp](https://github.com/NVIDIA/warp)
 
 </details>

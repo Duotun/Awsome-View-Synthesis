@@ -36,14 +36,15 @@ for Anti-Aliasing Neural Radiance Fields](https://jonbarron.info/mipnerf/), Barr
 <summary>Pose</summary>
 
 - [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://nope-nerf.active.vision/), Bian et al., CVPR 2023 
-
+- [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://totoro97.github.io/projects/f2-nerf/), Wang et al., CVPR 2023
 </details>
 
 <details open>
 <summary>Reconstruction & Lighting</summary>
 
-- [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://totoro97.github.io/projects/f2-nerf/), Wang et al., CVPR 2023
+
 - [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://lingjie0206.github.io/papers/NeuS/) | [github](https://github.com/Totoro97/NeuS)
+- [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures], Metzer et al., | [github](https://github.com/eladrich/latent-nerf)
 
 </details>
 
@@ -64,6 +65,7 @@ View Synthesis using Multi-Sphere Images](https://visual.cs.brown.edu/projects/m
 # :jigsaw: Signed Distance Function (SDF)
 An overall deepsdf, bakedsdf
 
+nvidia reconstruction nvdiff
 
 ---
 # :dart: Dataset
@@ -100,7 +102,7 @@ An overall deepsdf, bakedsdf
 
 <details open>
 <summary>SDF</summary>
-
+nvidia reconstruction
 </details>
 
 <details open>

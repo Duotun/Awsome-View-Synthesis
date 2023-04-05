@@ -10,7 +10,7 @@ Collections of State-of-Art Academic Papers, Code, Reports, and Datasets for Nov
 ---
 # :milky_way: Neural Radiance Field (NeRF)
 
-- An overall and detailed collections of NeRF could be found in this ["Awesome Neural Radiance Fields"](https://github.com/awesome-NeRF/awesome-NeRF) respository.
+An overall and detailed collections of NeRF could be found in this ["Awesome Neural Radiance Fields"](https://github.com/awesome-NeRF/awesome-NeRF) respository.
 
 <details open>
 <summary>Origins of NeRF<summary>
@@ -40,12 +40,11 @@ for Anti-Aliasing Neural Radiance Fields](https://jonbarron.info/mipnerf/), Barr
 
 ---
 # :black_joker: Multiple Sphere Images (MSIs)
-
-
-## Resources
+An overall
 
 
 # :jigsaw: Signed Distance Function (SDF)
+An overall deepsdf, bakedsdf
 
 
 ---

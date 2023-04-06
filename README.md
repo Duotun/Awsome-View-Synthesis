@@ -32,7 +32,8 @@ for Anti-Aliasing Neural Radiance Fields](https://jonbarron.info/mipnerf/), Barr
 - PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification, Li et al., ICLR 2023 | [github](https://github.com/xuan-li/PAC-NeRF)
 - [InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](https://tijiang13.github.io/InstantAvatar/), Jiang et al.,
 - [Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://zju3dv.github.io/enerf/), Lin et al., Siggraph Asia 2022 | [github](https://github.com/zju3dv/ENeRF)
-  
+- [NeRF-Supervised Deep Stereo](https://nerfstereo.github.io/), Tosi et al., CVPR 2023 | [github](https://github.com/fabiotosi92/NeRF-Supervised-Deep-Stereo)  
+
 </details>
 
 <details open>
@@ -68,18 +69,25 @@ with Soft Occlusion Multi-Sphere Images](https://tedyhabtegebrial.github.io/soms
 - [Immersive Light Field Video
 With A Layered Mesh Representation](https://augmentedperception.github.io/deepviewvideo/), Broxton et al., Siggraph 2020
 - MPIB: An MPI-Based Bokeh Rendering Framework for Realistic Partial Occlusion Effects, Peng et al., ECCV 2022 | [github](https://github.com/JuewenPeng/MPIB)
+- [3D Video Loops from Asynchronous Input](https://limacv.github.io/VideoLoop3D_web/), Li et al., CVPR 2023 | [github](https://github.com/limacv/VideoLoop3D)
+
 </details>
 
 # :jigsaw: Signed Distance Function (SDF) / Depth-Based
-SDF as a kind of implicit representations for 3D scenes is a quite popular method recently for reconstruction tasks for novel-view enerations because it could be optimized with differentiable rendering frameworks.
+SDF as a kind of implicit representations for 3D scenes is a quite popular method recently for reconstruction tasks for novel-view enerations because it could be optimized with differentiable rendering frameworks. 
+
+Multiview RGB images coupled with depth images are always the efficient ways to do the mutltiview geometry tasks and we should never overlook this topic.
 
 <details open>
 <summary>Rendering Quality & Speed</summary>
 
 - [Multiview Neural Surface Reconstruction
 by Disentangling Geometry and Appearance](https://lioryariv.github.io/idr/), Yariv et al., NeurIPS 2020 | [github](https://github.com/lioryariv/idr)
-
 - [Extracting Triangular 3D Models, Materials, and Lighting From Images](https://nvlabs.github.io/nvdiffrec/), Munkberg et al., CVPR 2022 | [github](https://github.com/NVlabs/nvdiffrec)
+- [MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction](https://niujinshuchong.github.io/monosdf/), Yu et al., NeurIPs 2022 | [github](https://github.com/autonomousvision/monosdf)
+- [PermutoSDF: Fast Multi-View Reconstruction with
+Implicit Surfaces using Permutohedral Lattices](https://radualexandru.github.io/permuto_sdf/) Rosu et al., CVPR 2023 | [github](https://github.com/RaduAlexandru/permuto_sdf)
+- [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://arxiv.org/abs/2302.14859) Yariv et al., CVPR 2023
 
 </details>
 
@@ -115,7 +123,7 @@ by Disentangling Geometry and Appearance](https://lioryariv.github.io/idr/), Yar
 - [Objaverse - Objects](https://huggingface.co/datasets/allenai/objaverse)
 - [Replica - Indoor Scenes](https://github.com/facebookresearch/Replica-Dataset)
 - [Hypersim - Indoor Scenes](https://github.com/apple/ml-hypersim)
-
+- [Circle - Indoor Dynamic Scenes](https://github.com/Stanford-TML/circle_dataset)
 
 </details>
 
@@ -126,6 +134,7 @@ by Disentangling Geometry and Appearance](https://lioryariv.github.io/idr/), Yar
 
 - [Implement NeRF with Pytorch-Lightning](https://github.com/kwea123/nerf_pl/)
 - [Implement Instant-ngp Nerf with Taichi](https://github.com/taichi-dev/taichi-nerfs)
+- [SDF Studio](https://github.com/autonomousvision/sdfstudio)
 
 </details>
 

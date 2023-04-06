@@ -1,6 +1,7 @@
 # :cyclone: Literature of Novel View Synthesis
 Collections of State-of-Art Academic Papers, Code, Reports, and Datasets for Novel View Synthesis with Implicit Representations
 
+
 - [:cyclone: Literature of Novel View Synthesis](#cyclone-literature-of-novel-view-synthesis)
 - [:milky\_way: Neural Radiance Field (NeRF)](#milky_way-neural-radiance-field-nerf)
 - [:black\_joker: Multiple Sphere Images (MSIs)](#black_joker-multiple-sphere-images-msis)

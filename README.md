@@ -30,7 +30,7 @@ for Anti-Aliasing Neural Radiance Fields](https://jonbarron.info/mipnerf/), Barr
 - [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://www.albertpumarola.com/research/D-NeRF/index.html) | [github](https://github.com/albertpumarola/D-NeRF)
 - PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification, Li et al., ICLR 2023 | [github](https://github.com/xuan-li/PAC-NeRF)
 - [InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](https://tijiang13.github.io/InstantAvatar/), Jiang et al.,
-- [Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://zju3dv.github.io/enerf/), Lin et al., Siggraph Asia 2022 | [github] (https://github.com/zju3dv/ENeRF)
+- [Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://zju3dv.github.io/enerf/), Lin et al., Siggraph Asia 2022 | [github](https://github.com/zju3dv/ENeRF)
   
 </details>
 

@@ -1,8 +1,6 @@
 # :cyclone: Literature of Novel View Synthesis
 This respository is mainted as collections of state-of-art academic papers, code, reports, and datasets for novel view synthesis with implicit representations. 
 
-
-- [:cyclone: Literature of Novel View Synthesis](#cyclone-literature-of-novel-view-synthesis)
 - [:milky\_way: Neural Radiance Field (NeRF)](#milky_way-neural-radiance-field-nerf)
 - [:black\_joker: Multiple Sphere Images (MSIs)](#black_joker-multiple-sphere-images-msis)
 - [:jigsaw: Signed Distance Function (SDF) / Depth-Based](#jigsaw-signed-distance-function-sdf--depth-based)

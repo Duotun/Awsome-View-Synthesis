@@ -1,5 +1,5 @@
 # :cyclone: Literature of Novel View Synthesis
-Collections of State-of-Art Academic Papers, Code, Reports, and Datasets for Novel View Synthesis with Implicit Representations
+This respository is mainted as collections of state-of-art academic papers, code, reports, and datasets for novel view synthesis with implicit representations. 
 
 
 - [:cyclone: Literature of Novel View Synthesis](#cyclone-literature-of-novel-view-synthesis)

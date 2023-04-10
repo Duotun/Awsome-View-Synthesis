@@ -74,7 +74,7 @@ With A Layered Mesh Representation](https://augmentedperception.github.io/deepvi
 </details>
 
 # :jigsaw: Signed Distance Function (SDF) / Depth-Based
-SDF as a kind of implicit representations for 3D scenes is a quite popular method recently for reconstruction tasks for novel-view enerations because it could be optimized with differentiable rendering frameworks. 
+SDF as a kind of implicit representations for 3D scenes is a quite popular method recently for reconstruction tasks for novel-view enerations because it could be optimized with differentiable rendering frameworks. However, we need to pay attention that parametrization of the SDF as a single fully-connected Multi-Layer Perceptron (MLP) often leads to overly smooth geometry and color.
 
 Multiview RGB images coupled with depth images are always the efficient ways to do the mutltiview geometry tasks and we should never overlook this topic.
 

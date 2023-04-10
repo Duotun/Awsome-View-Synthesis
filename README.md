@@ -49,7 +49,9 @@ for Anti-Aliasing Neural Radiance Fields](https://jonbarron.info/mipnerf/), Barr
 - [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://lingjie0206.github.io/papers/NeuS/), Wang et al., NeurIPS 2021 | [github](https://github.com/Totoro97/NeuS)
 - [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures], Metzer et al., | [github](https://github.com/eladrich/latent-nerf)
 - [Light Field Neural Rendering](https://light-field-neural-rendering.github.io/), Suhail et al., CVPR 2022 | [github](https://github.com/google-research/google-research/tree/master/light_field_neural_rendering)
-
+- [TexIR: Multi-view Inverse Rendering for Large-scale Real-world Indoor Scenes](http://yodlee.top/TexIR/), Li et al., CVPR 2023 | [github](https://github.com/LZleejean/TexIR_code)
+- [Neural Fields meet Explicit Geometric Representations for Inverse Rendering of Urban Scenes](https://nv-tlabs.github.io/fegr/), Wang et al., CVPR 2023 :star:
+  
 </details>
 
 ---

@@ -35,7 +35,8 @@ for Anti-Aliasing Neural Radiance Fields](https://jonbarron.info/mipnerf/), Barr
 - [InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](https://tijiang13.github.io/InstantAvatar/), Jiang et al.,
 - [Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://zju3dv.github.io/enerf/), Lin et al., Siggraph Asia 2022 | [github](https://github.com/zju3dv/ENeRF)
 - [NeRF-Supervised Deep Stereo](https://nerfstereo.github.io/), Tosi et al., CVPR 2023 | [github](https://github.com/fabiotosi92/NeRF-Supervised-Deep-Stereo)  
-
+- [Instant-NVR: Instant Neural Volumetric Rendering for Human-object Interactions
+from Monocular RGBD Stream](https://nowheretrix.github.io/Instant-NVR/) Jiang et al., CVPR 2023
 </details>
 
 <details open>

@@ -13,7 +13,9 @@ This respository is mainted as collections of state-of-art academic papers, code
 ---
 # :milky_way: Neural Radiance Field (NeRF)
 
-An overall and detailed collections of NeRF could be found in this ["Awesome Neural Radiance Fields"](https://github.com/awesome-NeRF/awesome-NeRF) respository.
+An overall and detailed collections of NeRF could be found in this ["Awesome Neural Radiance Fields"](https://github.com/awesome-NeRF/awesome-NeRF) respository. 
+
+Here is another collection of CVPR 2023 NeRF related papers: [NeRF-CVPR 2023](https://github.com/lif314/NeRFs-CVPR2023).
 
 <details open>
 <summary>Origins of NeRF</summary>

@@ -55,7 +55,17 @@ from Monocular RGBD Stream](https://nowheretrix.github.io/Instant-NVR/) Jiang et
 - [Light Field Neural Rendering](https://light-field-neural-rendering.github.io/), Suhail et al., CVPR 2022 | [github](https://github.com/google-research/google-research/tree/master/light_field_neural_rendering)
 - [TexIR: Multi-view Inverse Rendering for Large-scale Real-world Indoor Scenes](http://yodlee.top/TexIR/), Li et al., CVPR 2023 | [github](https://github.com/LZleejean/TexIR_code)
 - [Neural Fields meet Explicit Geometric Representations for Inverse Rendering of Urban Scenes](https://nv-tlabs.github.io/fegr/), Wang et al., CVPR 2023 :star:
-  
+- [Neural Rendering in a Room: Amodal 3D Understanding and Free-Viewpoint Rendering for the Closed Scene Composed of Pre-Captured Objects](https://zju3dv.github.io/nr_in_a_room/), Yang et al., SIGGRAPH 2022 :star:
+
+</details>
+
+<details open>
+<summary> Edit NeRF </summary>
+
+- [Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field](https://zju3dv.github.io/sine/), Bao et al., CVPR 2023 :star: 
+
+
+
 </details>
 
 ---
@@ -137,7 +147,7 @@ Implicit Surfaces using Permutohedral Lattices](https://radualexandru.github.io/
 <details open>
 <summary>NeRF</summary>
 
-- [Implement NeRF with Pytorch-Lightning](https://github.com/kwea123/nerf_pl/)
+- [Implement NeRF with Pytorch-Lightning](https://github.com/kwea123/nerf_pl/) :star:
 - [Implement Instant-ngp Nerf with Taichi](https://github.com/taichi-dev/taichi-nerfs)
 - [SDF Studio](https://github.com/autonomousvision/sdfstudio)
 

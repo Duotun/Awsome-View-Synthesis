@@ -147,6 +147,7 @@ Implicit Surfaces using Permutohedral Lattices](https://radualexandru.github.io/
 <details open>
 <summary>NeRF</summary>
 
+- [NeRF Studio](https://github.com/nerfstudio-project/nerfstudio) :star:
 - [Implement NeRF with Pytorch-Lightning](https://github.com/kwea123/nerf_pl/) :star:
 - [Implement Instant-ngp Nerf with Taichi](https://github.com/taichi-dev/taichi-nerfs)
 - [SDF Studio](https://github.com/autonomousvision/sdfstudio)

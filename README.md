@@ -1,7 +1,7 @@
 
 <!-- omit in toc -->
 # :cyclone: Literature of Awesome View Synthesis
-This respository is mainted as collections of state-of-art academic papers, code, reports, and datasets for novel view synthesis with implicit representations. 
+This repository is mainted as collections of state-of-art academic papers, code, reports, and datasets for novel view synthesis with implicit representations. 
 
 
 - [:milky\_way: Neural Radiance Field (NeRF)](#milky_way-neural-radiance-field-nerf)
@@ -13,7 +13,7 @@ This respository is mainted as collections of state-of-art academic papers, code
 ---
 # :milky_way: Neural Radiance Field (NeRF)
 
-An overall and detailed collections of NeRF could be found in this ["Awesome Neural Radiance Fields"](https://github.com/awesome-NeRF/awesome-NeRF) respository. 
+An overall and detailed collection of NeRF could be found in this ["Awesome Neural Radiance Fields"](https://github.com/awesome-NeRF/awesome-NeRF) repository. 
 
 Here is another collection of CVPR 2023 NeRF related papers: [NeRF-CVPR 2023](https://github.com/lif314/NeRFs-CVPR2023).
 
@@ -30,7 +30,7 @@ for Anti-Aliasing Neural Radiance Fields](https://jonbarron.info/mipnerf/), Barr
 <details open>
 <summary>Dynamic Scenes</summary>
 
-- [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://www.albertpumarola.com/research/D-NeRF/index.html) | [github](https://github.com/albertpumarola/D-NeRF)
+- [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://www.albertpumarola.com/research/D-NeRF/index.html), Pumarola et al., CVPR 2021 | [github](https://github.com/albertpumarola/D-NeRF)
 - PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification, Li et al., ICLR 2023 | [github](https://github.com/xuan-li/PAC-NeRF)
 - [InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](https://tijiang13.github.io/InstantAvatar/), Jiang et al.,
 - [Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://zju3dv.github.io/enerf/), Lin et al., Siggraph Asia 2022 | [github](https://github.com/zju3dv/ENeRF)

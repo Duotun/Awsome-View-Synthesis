@@ -20,21 +20,21 @@ Here is another collection of CVPR 2023 NeRF related papers: [NeRF-CVPR 2023](ht
 <details open>
 <summary>Origins of NeRF</summary>
 
-- [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf), Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf) 
-- NeRF++: Analyzing and Improving Neural Radiance Fields, Zhang et al., | [github](https://github.com/Kai-46/nerfplusplus)
-- [Mip-NeRF: A Multiscale Representation
-for Anti-Aliasing Neural Radiance Fields](https://jonbarron.info/mipnerf/), Barron et al., ICCV 2021 | [github](https://github.com/google/mipnerf)
+- [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf), Mildenhall et al., ECCV 2020 |  [![Star](https://img.shields.io/github/stars/bmild/nerf.svg?style=social&label=Star)](https://github.com/bmild/nerf) 
+- NeRF++: Analyzing and Improving Neural Radiance Fields, Zhang et al., |  [![Star](https://img.shields.io/github/stars/Kai-46/nerfplusplus.svg?style=social&label=Star)](https://github.com/Kai-46/nerfplusplus)
+- [Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](https://jonbarron.info/mipnerf/), Barron et al., ICCV 2021 |  [![Star](https://img.shields.io/github/stars/google/mipnerf.svg?style=social&label=Star)](https://github.com/google/mipnerf)
+- [NeRF in the Wild](https://nerf-w.github.io/), Brualla et al., CVPR 2021 
 
 </details>
 
 <details open>
 <summary>Dynamic Scenes</summary>
 
-- [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://www.albertpumarola.com/research/D-NeRF/index.html), Pumarola et al., CVPR 2021 | [github](https://github.com/albertpumarola/D-NeRF)
-- PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification, Li et al., ICLR 2023 | [github](https://github.com/xuan-li/PAC-NeRF)
+- [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://www.albertpumarola.com/research/D-NeRF/index.html), Pumarola et al., CVPR 2021 |  [![Star](https://img.shields.io/github/stars/albertpumarola/D-NeRF.svg?style=social&label=Star)](https://github.com/albertpumarola/D-NeRF)
+- PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification, Li et al., ICLR 2023 |   [![Star](https://img.shields.io/github/stars/xuan-li/PAC-NeRF.svg?style=social&label=Star)](https://github.com/xuan-li/PAC-NeRF)
 - [InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](https://tijiang13.github.io/InstantAvatar/), Jiang et al.,
-- [Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://zju3dv.github.io/enerf/), Lin et al., Siggraph Asia 2022 | [github](https://github.com/zju3dv/ENeRF)
-- [NeRF-Supervised Deep Stereo](https://nerfstereo.github.io/), Tosi et al., CVPR 2023 | [github](https://github.com/fabiotosi92/NeRF-Supervised-Deep-Stereo)  
+- [Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://zju3dv.github.io/enerf/), Lin et al., Siggraph Asia 2022 |  [![Star](https://img.shields.io/github/stars/zju3dv/ENeRF.svg?style=social&label=Star)](https://github.com/zju3dv/ENeRF)
+- [NeRF-Supervised Deep Stereo](https://nerfstereo.github.io/), Tosi et al., CVPR 2023 | [![Star](https://img.shields.io/github/stars/zju3dv/ENeRF.svg?style=social&label=Star)](https://github.com/fabiotosi92/NeRF-Supervised-Deep-Stereo)  
 - [Instant-NVR: Instant Neural Volumetric Rendering for Human-object Interactions
 from Monocular RGBD Stream](https://nowheretrix.github.io/Instant-NVR/) Jiang et al., CVPR 2023
 </details>
@@ -50,10 +50,10 @@ from Monocular RGBD Stream](https://nowheretrix.github.io/Instant-NVR/) Jiang et
 <summary>Reconstruction & Lighting</summary>
 
 
-- [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://lingjie0206.github.io/papers/NeuS/), Wang et al., NeurIPS 2021 | [github](https://github.com/Totoro97/NeuS)
-- [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures], Metzer et al., | [github](https://github.com/eladrich/latent-nerf)
-- [Light Field Neural Rendering](https://light-field-neural-rendering.github.io/), Suhail et al., CVPR 2022 | [github](https://github.com/google-research/google-research/tree/master/light_field_neural_rendering)
-- [TexIR: Multi-view Inverse Rendering for Large-scale Real-world Indoor Scenes](http://yodlee.top/TexIR/), Li et al., CVPR 2023 | [github](https://github.com/LZleejean/TexIR_code)
+- [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://lingjie0206.github.io/papers/NeuS/), Wang et al., NeurIPS 2021 | [![Star](https://img.shields.io/github/stars/zju3dv/ENeRF.svg?style=social&label=Star)](https://github.com/Totoro97/NeuS)
+- [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures], Metzer et al., | [![Star](https://img.shields.io/github/stars/eladrich/latent-nerf.svg?style=social&label=Star)](https://github.com/eladrich/latent-nerf)
+- [Light Field Neural Rendering](https://light-field-neural-rendering.github.io/), Suhail et al., CVPR 2022 | [![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star)](https://github.com/google-research/google-research/tree/master/light_field_neural_rendering)
+- [TexIR: Multi-view Inverse Rendering for Large-scale Real-world Indoor Scenes](http://yodlee.top/TexIR/), Li et al., CVPR 2023 | [![Star](https://img.shields.io/github/stars/LZleejean/TexIR_code.svg?style=social&label=Star)](https://github.com/LZleejean/TexIR_code)
 - [Neural Fields meet Explicit Geometric Representations for Inverse Rendering of Urban Scenes](https://nv-tlabs.github.io/fegr/), Wang et al., CVPR 2023 :star:
 - [Neural Rendering in a Room: Amodal 3D Understanding and Free-Viewpoint Rendering for the Closed Scene Composed of Pre-Captured Objects](https://zju3dv.github.io/nr_in_a_room/), Yang et al., SIGGRAPH 2022 :star:
 
@@ -77,14 +77,11 @@ The most profound papers originates from multiplane images (MPIs), which are "[S
 <details open>
 <summary>Quality & Fast Inference</summary>
 
-- [MatryODShka: Real-time 6DoF Video
-View Synthesis using Multi-Sphere Images](https://visual.cs.brown.edu/projects/matryodshka-webpage/), Attal et al., ECCV 2020
-- [SOMSI: Spherical Novel View Synthesis
-with Soft Occlusion Multi-Sphere Images](https://tedyhabtegebrial.github.io/somsi/), Habtegebrial et al., CVPR 2022 | [github](https://github.com/tedyhabtegebrial/SoftOcclusionMSI)
-- [Immersive Light Field Video
-With A Layered Mesh Representation](https://augmentedperception.github.io/deepviewvideo/), Broxton et al., Siggraph 2020
-- MPIB: An MPI-Based Bokeh Rendering Framework for Realistic Partial Occlusion Effects, Peng et al., ECCV 2022 | [github](https://github.com/JuewenPeng/MPIB)
-- [3D Video Loops from Asynchronous Input](https://limacv.github.io/VideoLoop3D_web/), Li et al., CVPR 2023 | [github](https://github.com/limacv/VideoLoop3D)
+- [MatryODShka: Real-time 6DoF Video View Synthesis using Multi-Sphere Images](https://visual.cs.brown.edu/projects/matryodshka-webpage/), Attal et al., ECCV 2020
+- [SOMSI: Spherical Novel View Synthesis with Soft Occlusion Multi-Sphere Images](https://tedyhabtegebrial.github.io/somsi/), Habtegebrial et al., CVPR 2022 | [![Star](https://img.shields.io/github/stars/tedyhabtegebrial/SoftOcclusionMSI.svg?style=social&label=Star)](https://github.com/tedyhabtegebrial/SoftOcclusionMSI)
+- [Immersive Light Field Video With A Layered Mesh Representation](https://augmentedperception.github.io/deepviewvideo/), Broxton et al., Siggraph 2020
+- MPIB: An MPI-Based Bokeh Rendering Framework for Realistic Partial Occlusion Effects, Peng et al., ECCV 2022 |  [![Star](https://img.shields.io/github/stars/JuewenPeng/MPIB.svg?style=social&label=Star)](https://github.com/JuewenPeng/MPIB)
+- [3D Video Loops from Asynchronous Input](https://limacv.github.io/VideoLoop3D_web/), Li et al., CVPR 2023 |  [![Star](https://img.shields.io/github/stars/limacv/VideoLoop3D.svg?style=social&label=Star)](https://github.com/limacv/VideoLoop3D)
 
 </details>
 
@@ -96,12 +93,10 @@ Multiview RGB images coupled with depth images are always the efficient ways to 
 <details open>
 <summary>Rendering Quality & Speed</summary>
 
-- [Multiview Neural Surface Reconstruction
-by Disentangling Geometry and Appearance](https://lioryariv.github.io/idr/), Yariv et al., NeurIPS 2020 | [github](https://github.com/lioryariv/idr)
-- [Extracting Triangular 3D Models, Materials, and Lighting From Images](https://nvlabs.github.io/nvdiffrec/), Munkberg et al., CVPR 2022 | [github](https://github.com/NVlabs/nvdiffrec)
-- [MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction](https://niujinshuchong.github.io/monosdf/), Yu et al., NeurIPs 2022 | [github](https://github.com/autonomousvision/monosdf)
-- [PermutoSDF: Fast Multi-View Reconstruction with
-Implicit Surfaces using Permutohedral Lattices](https://radualexandru.github.io/permuto_sdf/) Rosu et al., CVPR 2023 | [github](https://github.com/RaduAlexandru/permuto_sdf)
+- [Multiview Neural Surface Reconstruction by Disentangling Geometry and Appearance](https://lioryariv.github.io/idr/), Yariv et al., NeurIPS 2020 |  [![Star](https://img.shields.io/github/stars/lioryariv/idr.svg?style=social&label=Star)](https://github.com/lioryariv/idr)
+- [Extracting Triangular 3D Models, Materials, and Lighting From Images](https://nvlabs.github.io/nvdiffrec/), Munkberg et al., CVPR 2022 | [![Star](https://img.shields.io/github/stars/NVlabs/nvdiffrec.svg?style=social&label=Star)](https://github.com/NVlabs/nvdiffrec)
+- [MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction](https://niujinshuchong.github.io/monosdf/), Yu et al., NeurIPs 2022 |  [![Star](https://img.shields.io/github/stars/autonomousvision/monosdf.svg?style=social&label=Star)](https://github.com/autonomousvision/monosdf)
+- [PermutoSDF: Fast Multi-View Reconstruction with Implicit Surfaces using Permutohedral Lattices](https://radualexandru.github.io/permuto_sdf/) Rosu et al., CVPR 2023 |  [![Star](https://img.shields.io/github/stars/RaduAlexandru/permuto_sdf.svg?style=social&label=Star)](https://github.com/RaduAlexandru/permuto_sdf)
 - [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://arxiv.org/abs/2302.14859) Yariv et al., CVPR 2023
 
 </details>
@@ -136,9 +131,10 @@ Implicit Surfaces using Permutohedral Lattices](https://radualexandru.github.io/
 <summary>Synthetic Data</summary>
 
 - [Objaverse - Objects](https://huggingface.co/datasets/allenai/objaverse)
-- [Replica - Indoor Scenes](https://github.com/facebookresearch/Replica-Dataset)
+- [Replica - Indoor Scenes](https://github.com/facebookresearch/Replica-Dataset) :star:
 - [Hypersim - Indoor Scenes](https://github.com/apple/ml-hypersim)
 - [Circle - Indoor Dynamic Scenes](https://github.com/Stanford-TML/circle_dataset)
+- [InteriorVerse](https://interiorverse.github.io/) :star:
 
 </details>
 
@@ -150,6 +146,7 @@ Implicit Surfaces using Permutohedral Lattices](https://radualexandru.github.io/
 - [NeRF Studio](https://github.com/nerfstudio-project/nerfstudio) :star:
 - [Implement NeRF with Pytorch-Lightning](https://github.com/kwea123/nerf_pl/) :star:
 - [Implement Instant-ngp Nerf with Taichi](https://github.com/taichi-dev/taichi-nerfs)
+- [Torch NGP](https://github.com/ashawkey/torch-ngp)
 - [SDF Studio](https://github.com/autonomousvision/sdfstudio)
 
 </details>

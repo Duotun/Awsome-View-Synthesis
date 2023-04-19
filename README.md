@@ -143,7 +143,7 @@ Multiview RGB images coupled with depth images are always the efficient ways to 
 
 - [PolyCapture](https://poly.cam/)
 - [KIRI Engine](https://www.kiriengine.com/)
-- [RealityCapture from Epic](https://www.capturingreality.com/)
+- [RealityCapture from Epic](https://www.capturingreality.com/) :star:
 </details>
 
 ---

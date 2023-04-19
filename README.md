@@ -119,6 +119,7 @@ Multiview RGB images coupled with depth images are always the efficient ways to 
 - [Nerf - MultiView](https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1)
 - [Deep Voxel - 3D Scans](https://github.com/vsitzmann/deepvoxels)
 - [RealEstate10K - Camera Poses](https://google.github.io/realestate10k/)
+- [Multiface Dataset - Human](https://github.com/facebookresearch/multiface)
 
 <details open>
 <summary>360 Panorama</summary>

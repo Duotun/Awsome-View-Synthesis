@@ -1,7 +1,7 @@
 
 <!-- omit in toc -->
 # :cyclone: Literature of Awesome View Synthesis
-This repository is mainted as collections of state-of-art academic papers, code, reports, and datasets for novel view synthesis with implicit representations. 
+This repository is maintained as collections of state-of-art academic papers, code, reports, and datasets for novel view synthesis with implicit representations. 
 
 
 - [:milky\_way: Neural Radiance Field (NeRF)](#milky_way-neural-radiance-field-nerf)

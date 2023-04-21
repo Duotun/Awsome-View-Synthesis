@@ -17,3 +17,4 @@ This repository is maintained as a learning record for pytorch coding in deep le
 
 # :light_rail: Basic Concepts
 
+- Basic operations could be checked in the [tensors.py](./pytorch/tensors.py).

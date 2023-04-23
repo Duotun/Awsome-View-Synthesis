@@ -154,7 +154,8 @@ Multiview RGB images coupled with depth images are always the efficient ways to 
 <summary>NeRF</summary>
 
 - [NeRF Studio](https://github.com/nerfstudio-project/nerfstudio) :star:
-- [Implement NeRF with Pytorch-Lightning](https://github.com/kwea123/nerf_pl/) :star:
+- [Implement NeRF with Pytorch-Lightning](https://github.com/kwea123/nerf_pl/) :star:, a Unity plugin is provided as well.
+- [Implement NeRF with Pytorch](https://towardsdatascience.com/its-nerf-from-nothing-build-a-vanilla-nerf-with-pytorch-7846e4c45666)
 - [Implement Instant-ngp Nerf with Taichi](https://github.com/taichi-dev/taichi-nerfs)
 - [Torch NGP](https://github.com/ashawkey/torch-ngp)
 - [SDF Studio](https://github.com/autonomousvision/sdfstudio)

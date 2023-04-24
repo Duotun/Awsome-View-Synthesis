@@ -18,3 +18,16 @@ This repository is maintained as a learning record for pytorch coding in deep le
 # :light_rail: Basic Concepts
 
 - Basic operations could be checked in the [tensors.py](./pytorch/tensors.py).
+
+
+- [ModuleList](https://pytorch.org/docs/stable/generated/torch.nn.ModuleList.html) can be index like a regular Python list and could be retrieved as Module method with index access.
+![ModuleList](./images/modulelist.png)
+
+- [Cumulative Product](https://pytorch.org/docs/stable/generated/torch.cumprod.html) Returns the cumulative product of elements of input in the dimension dim. For example, if input is a vector of size N, the result will also be a vector of size N, with elements. 
+  ![Cumprod](./images/cul.png)
+
+- [Expand](https://pytorch.org/docs/stable/generated/torch.Tensor.expand.html) returns a new view of the self tensor with singleton dimension expanded to a larger size. Remember it only creates a view for the tensor without allocating further [memory](https://discuss.pytorch.org/t/expand-on-non-singleton-dimensions-without-actually-repeating-the-memory/11301) and hence it is very useable for read-only situations.
+  
+
+
+  

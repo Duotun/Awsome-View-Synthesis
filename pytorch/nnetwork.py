@@ -83,9 +83,8 @@ optimizer = optim.SGD(net.parameters(), lr=0.01);
 
 # do this in the training loop
 optimizer.zero_grad();   #clear the grad accumulation during the backprop
-output = net(input)
+output = net(input)    #pass input in to perform forward
 loss = criterion(output, target);
 loss.backward();
 optimizer.step() #Dose the update
-
 

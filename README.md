@@ -57,6 +57,7 @@ from Monocular RGBD Stream](https://nowheretrix.github.io/Instant-NVR/) Jiang et
 - [Neural Fields meet Explicit Geometric Representations for Inverse Rendering of Urban Scenes](https://nv-tlabs.github.io/fegr/), Wang et al., CVPR 2023 :star:
 - [Neural Rendering in a Room: Amodal 3D Understanding and Free-Viewpoint Rendering for the Closed Scene Composed of Pre-Captured Objects](https://zju3dv.github.io/nr_in_a_room/), Yang et al., SIGGRAPH 2022 :star:
 - [SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction](https://sparsefusion.github.io/), Zhou et al, CVPR 2023 | [![Star](https://img.shields.io/github/stars/zhizdev/sparsefusion.svg?style=social&label=Star)](https://github.com/zhizdev/sparsefusion)
+- [Ha-NeRF😆: Hallucinated Neural Radiance Fields in the Wild](https://rover-xingyu.github.io/Ha-NeRF/), Chen et al., CVPR 2022
 
 </details>
 
@@ -65,7 +66,9 @@ from Monocular RGBD Stream](https://nowheretrix.github.io/Instant-NVR/) Jiang et
 
 - [Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field](https://zju3dv.github.io/sine/), Bao et al., CVPR 2023 :star: 
 - [SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields](https://spinnerf3d.github.io/), Mirzaei et al., CVPR 2023 :star:
-
+- [Removing Objects From Neural Radiance Fields](https://nianticlabs.github.io/nerf-object-removal/), Weder et al., CVPR 2023 :star:
+- [Neural Light Field Estimation for Street Scenes with Differentiable Virtual Object Insertion](https://nv-tlabs.github.io/outdoor-ar/), Wang et al., ECCV 2022 
+- [UV Volumes for Real-time Rendering of Editable Free-view Human Performance](https://fanegg.github.io/UV-Volumes/), Chen et al., CVPR 2023
 
 </details>
 

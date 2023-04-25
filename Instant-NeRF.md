@@ -27,7 +27,14 @@ Volume rendering is a technique for visualizing sampled functions of a colored s
 
 ---
 ## Stratified Sampling
-Check [wiki] for detail information. Rather than simply drawing samples at regular spacing, the stratified sampling approach allows the model to sample a continuous space, therefore conditioning the network to learn over a continuous space.
+Check [wiki] for detail information. Rather than simply drawing samples at regular spacing, the stratified sampling approach allows the model to sample a continuous space, therefore conditioning the network to learn over a continuous space. More things about ray sampling could be found [here](https://docs.nerf.studio/en/latest/nerfology/model_components/visualize_samplers.html).
 
+---
+## Spatial Distortions
+When rendering a target view of a scene, the camera will emit a camera ray for each pixel and query the scene at points along this ray. We can choose where to query these points using different samplers. These samplers have some notion of bounds that define where the ray should start and terminate. If you know that everything in your scenes exists within some predefined bounds (ie. a cube that a room fits in) then the sampler will properly sample the entire space. If however the scene is unbounded (ie. an outdoor scene) defining where to stop sampling is challenging. One option to increase the far sampling distance to a large value (ie. 1km). Alternatively **we can warp the space into a fixed volume**. Below are supported distortions.
 
- 
+---
+## Position Encoding
+A more detail tutorial could be found [here](https://dtransposed.github.io/blog/2022/08/06/NeRF/) for using position encoding to capture details of Radiance Fields. 
+
+![Encoding](./images/position%20encoding.png)

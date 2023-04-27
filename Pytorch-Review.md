@@ -36,6 +36,7 @@ Implement deep-learning based methods by following mini structure designs:
 
 - [Expand](https://pytorch.org/docs/stable/generated/torch.Tensor.expand.html) returns a new view of the self tensor with singleton dimension expanded to a larger size. Remember it only creates a view for the tensor without allocating further [memory](https://discuss.pytorch.org/t/expand-on-non-singleton-dimensions-without-actually-repeating-the-memory/11301) and hence it is very useable for read-only situations.
   
+- Be careful that lots's problems come from the environment settings like no third-party packages, not correct versions of imported packages and CUDA compatibility. Be patient and utilize the anaconda virtual environments to reset all the environments and try it again. :smile:
 
 
   

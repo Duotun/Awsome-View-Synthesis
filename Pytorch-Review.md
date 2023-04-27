@@ -7,6 +7,14 @@ This repository is maintained as a learning record for pytorch coding in deep le
 - [:corn: Great Tutorials](#corn-great-tutorials)
 - [:light\_rail: Basic Concepts](#light_rail-basic-concepts)
   
+Implement deep-learning based methods by following mini structure designs:
+
+- Datasets
+- Networks
+- Evaluators
+- Trainers
+- Visualizers
+  
 ---
 # :corn: Great Tutorials
 

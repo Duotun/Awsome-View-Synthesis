@@ -38,3 +38,21 @@ When rendering a target view of a scene, the camera will emit a camera ray for e
 A more detail tutorial could be found [here](https://dtransposed.github.io/blog/2022/08/06/NeRF/) for using position encoding to capture details of Radiance Fields. 
 
 ![Encoding](./images/position%20encoding.png)
+
+---
+## Multilayer Perceptron
+The Multilayer Perceptron was developed to tackle this limitation. It is a neural network where the mapping between inputs and output is non-linear.
+
+A Multilayer Perceptron has input and output layers, and **one or more hidden layers** with many neurons stacked together. And while in the Perceptron the neuron must have an activation function that imposes a threshold, like ReLU or sigmoid, neurons in a Multilayer Perceptron can use any arbitrary activation function.
+
+![MLP](./images/mlp.png)
+
+---
+# Peak Signal-to-noise Ratio
+Peak signal-to-noise ratio (PSNR) is an engineering term for the ratio between the maximum possible power of a signal and the power of corrupting noise that affects the fidelity of its representation. Because many signals have a very wide dynamic range, PSNR is usually expressed as a logarithmic quantity using the decibel scale.
+
+PSNR is commonly used to quantify reconstruction quality for images and video subject to lossy compression.
+
+![PSNR](./images/psnr.png)
+
+

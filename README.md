@@ -42,7 +42,7 @@ from Monocular RGBD Stream](https://nowheretrix.github.io/Instant-NVR/) Jiang et
 <details open>
 <summary>Pose</summary>
 
-- [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://nope-nerf.active.vision/), Bian et al., CVPR 2023 
+- [NoPe-NeRF: Optimizing Neural Radiance Field with No Pose Prior](https://nope-nerf.active.vision/), Bian et al., CVPR 2023 
 - [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://totoro97.github.io/projects/f2-nerf/), Wang et al., CVPR 2023
 </details>
 

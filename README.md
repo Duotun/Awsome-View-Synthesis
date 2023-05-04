@@ -58,6 +58,7 @@ from Monocular RGBD Stream](https://nowheretrix.github.io/Instant-NVR/) Jiang et
 - [Neural Rendering in a Room: Amodal 3D Understanding and Free-Viewpoint Rendering for the Closed Scene Composed of Pre-Captured Objects](https://zju3dv.github.io/nr_in_a_room/), Yang et al., SIGGRAPH 2022 :star:
 - [SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction](https://sparsefusion.github.io/), Zhou et al, CVPR 2023 | [![Star](https://img.shields.io/github/stars/zhizdev/sparsefusion.svg?style=social&label=Star)](https://github.com/zhizdev/sparsefusion)
 - [Ha-NeRF😆: Hallucinated Neural Radiance Fields in the Wild](https://rover-xingyu.github.io/Ha-NeRF/), Chen et al., CVPR 2022
+- [Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement](https://me.kiui.moe/nerf2mesh/), Tang et al., Arxiv |  [![Star](https://img.shields.io/github/stars/ashawkey/nerf2mesh.svg?style=social&label=Star)](https://github.com/ashawkey/nerf2mesh)
 
 </details>
 
@@ -173,10 +174,11 @@ Multiview RGB images coupled with depth images are always the efficient ways to 
 - [Learn To Reproduce Papers: Beginner’s Guide](https://towardsdatascience.com/learn-to-reproduce-papers-beginners-guide-2b4bff8fcca0)
 
 <details open>
-<summary>3D Libraries</summary>
+<summary>3D Libraries & GUI</summary>
 
 - [Taichi](https://github.com/taichi-dev/taichi)
 - [Google / Visu3d](https://github.com/google-research/visu3d)
 - [Nvidia / Warp](https://github.com/NVIDIA/warp)
-
+- [Dear PyGUI](https://github.com/hoffstadt/DearPyGui)
+  
 </details>

@@ -35,8 +35,9 @@ Here is another collection of CVPR 2023 NeRF related papers: [NeRF-CVPR 2023](ht
 - [InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](https://tijiang13.github.io/InstantAvatar/), Jiang et al.,
 - [Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://zju3dv.github.io/enerf/), Lin et al., Siggraph Asia 2022 |  [![Star](https://img.shields.io/github/stars/zju3dv/ENeRF.svg?style=social&label=Star)](https://github.com/zju3dv/ENeRF)
 - [NeRF-Supervised Deep Stereo](https://nerfstereo.github.io/), Tosi et al., CVPR 2023 | [![Star](https://img.shields.io/github/stars/zju3dv/ENeRF.svg?style=social&label=Star)](https://github.com/fabiotosi92/NeRF-Supervised-Deep-Stereo)  
-- [Instant-NVR: Instant Neural Volumetric Rendering for Human-object Interactions
-from Monocular RGBD Stream](https://nowheretrix.github.io/Instant-NVR/) Jiang et al., CVPR 2023
+- [Instant-NVR: Instant Neural Volumetric Rendering for Human-object Interactions from Monocular RGBD Stream](https://nowheretrix.github.io/Instant-NVR/) Jiang et al., CVPR 2023
+- [A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](https://hypernerf.github.io/), Park et al., Siggraph Asia 2021 | [![Star](https://img.shields.io/github/stars/google/hypernerf.svg?style=social&label=Star)](https://github.com/google/hypernerf)
+
 </details>
 
 <details open>

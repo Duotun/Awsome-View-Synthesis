@@ -60,6 +60,7 @@ Here is another collection of CVPR 2023 NeRF related papers: [NeRF-CVPR 2023](ht
 - [SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction](https://sparsefusion.github.io/), Zhou et al, CVPR 2023 | [![Star](https://img.shields.io/github/stars/zhizdev/sparsefusion.svg?style=social&label=Star)](https://github.com/zhizdev/sparsefusion)
 - [Ha-NeRF😆: Hallucinated Neural Radiance Fields in the Wild](https://rover-xingyu.github.io/Ha-NeRF/), Chen et al., CVPR 2022
 - [Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement](https://me.kiui.moe/nerf2mesh/), Tang et al., Arxiv |  [![Star](https://img.shields.io/github/stars/ashawkey/nerf2mesh.svg?style=social&label=Star)](https://github.com/ashawkey/nerf2mesh)
+- [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/), Tang et al, Arxiv |  [![Star](https://img.shields.io/github/stars/junshutang/Make-It-3D.svg?style=social&label=Star)](https://github.com/junshutang/Make-It-3D)
 
 </details>
 

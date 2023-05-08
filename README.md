@@ -161,6 +161,7 @@ Multiview RGB images coupled with depth images are always the efficient ways to 
 
 - [NeRF Studio](https://github.com/nerfstudio-project/nerfstudio) :star:
 - [Implement NeRF with Pytorch-Lightning](https://github.com/kwea123/nerf_pl/) :star:, a Unity plugin is provided as well.
+- [Tiny NeRF](https://dtransposed.github.io/blog/2022/08/06/NeRF/)
 - [Implement NeRF with Pytorch](https://towardsdatascience.com/its-nerf-from-nothing-build-a-vanilla-nerf-with-pytorch-7846e4c45666)
 - [Implement Instant-ngp Nerf with Taichi](https://github.com/taichi-dev/taichi-nerfs)
 - [Torch NGP](https://github.com/ashawkey/torch-ngp)
@@ -172,8 +173,9 @@ Multiview RGB images coupled with depth images are always the efficient ways to 
 <details open>
 <summary>Deep Learning FrameWorks</summary>
 
-- [labml.ai Deep Learning Paper Implementations](https://nn.labml.ai/index.html) | [github](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
+- [labml.ai Deep Learning Paper Implementations](https://nn.labml.ai/index.html) |  [![Star](https://img.shields.io/github/stars/labmlai/annotated_deep_learning_paper_implementations.svg?style=social&label=Star)](https://github.com/labmlai/annotated_deep_learning_paper_implementations) 
 - [Learn To Reproduce Papers: Beginner’s Guide](https://towardsdatascience.com/learn-to-reproduce-papers-beginners-guide-2b4bff8fcca0)
+- [Paper in 100 Line of Code](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code)
 
 <details open>
 <summary>3D Libraries & GUI</summary>

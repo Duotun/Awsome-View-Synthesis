@@ -61,6 +61,7 @@ Here is another collection of CVPR 2023 NeRF related papers: [NeRF-CVPR 2023](ht
 - [Ha-NeRF😆: Hallucinated Neural Radiance Fields in the Wild](https://rover-xingyu.github.io/Ha-NeRF/), Chen et al., CVPR 2022
 - [Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement](https://me.kiui.moe/nerf2mesh/), Tang et al., Arxiv |  [![Star](https://img.shields.io/github/stars/ashawkey/nerf2mesh.svg?style=social&label=Star)](https://github.com/ashawkey/nerf2mesh)
 - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/), Tang et al, Arxiv |  [![Star](https://img.shields.io/github/stars/junshutang/Make-It-3D.svg?style=social&label=Star)](https://github.com/junshutang/Make-It-3D)
+- [AvatarReX: Real-time Expressive Full-body Avatars](https://liuyebin.com/AvatarRex/), Zheng et al, SIGGRAPH 2023
 
 </details>
 
@@ -113,7 +114,8 @@ Multiview RGB images coupled with depth images are always the efficient ways to 
 
 - [360∘ Stereo Image Composition with Depth Adaption](https://arxiv.org/abs/2212.10062), Huang et al., 
 - [Casual 6-DoF: free-viewpoint panorama using a handheld 360 camera](https://arxiv.org/abs/2203.16756) Chen et al., 
-
+- [MVImageNet](https://gaplab.cuhk.edu.cn/projects/MVImgNet/)
+  
 </details>
 
 ---

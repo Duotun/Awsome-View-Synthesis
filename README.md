@@ -37,6 +37,7 @@ Here is another collection of CVPR 2023 NeRF related papers: [NeRF-CVPR 2023](ht
 - [NeRF-Supervised Deep Stereo](https://nerfstereo.github.io/), Tosi et al., CVPR 2023 | [![Star](https://img.shields.io/github/stars/zju3dv/ENeRF.svg?style=social&label=Star)](https://github.com/fabiotosi92/NeRF-Supervised-Deep-Stereo)  
 - [Instant-NVR: Instant Neural Volumetric Rendering for Human-object Interactions from Monocular RGBD Stream](https://nowheretrix.github.io/Instant-NVR/) Jiang et al., CVPR 2023
 - [A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](https://hypernerf.github.io/), Park et al., Siggraph Asia 2021 | [![Star](https://img.shields.io/github/stars/google/hypernerf.svg?style=social&label=Star)](https://github.com/google/hypernerf)
+- [HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion](https://synthesiaresearch.github.io/humanrf/), Isik et al., ACM TOG | [![Star](https://img.shields.io/github/stars/synthesiaresearch/humanrf.svg?style=social&label=Star)](https://github.com/synthesiaresearch/humanrf)
 
 </details>
 

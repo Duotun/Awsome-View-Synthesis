@@ -63,7 +63,7 @@ Here is another collection of CVPR 2023 NeRF related papers: [NeRF-CVPR 2023](ht
 - [Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement](https://me.kiui.moe/nerf2mesh/), Tang et al., Arxiv |  [![Star](https://img.shields.io/github/stars/ashawkey/nerf2mesh.svg?style=social&label=Star)](https://github.com/ashawkey/nerf2mesh)
 - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/), Tang et al, Arxiv |  [![Star](https://img.shields.io/github/stars/junshutang/Make-It-3D.svg?style=social&label=Star)](https://github.com/junshutang/Make-It-3D)
 - [AvatarReX: Real-time Expressive Full-body Avatars](https://liuyebin.com/AvatarRex/), Zheng et al, SIGGRAPH 2023
-
+- [3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models](https://1zb.github.io/3DShape2VecSet/), Zhang et al., SIGGRAPH 2023 | [![Star](https://img.shields.io/github/stars/1zb/3DShape2VecSet.svg?style=social&label=Star)](https://github.com/1zb/3DShape2VecSet) :star: 
 </details>
 
 <details open>

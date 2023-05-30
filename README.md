@@ -187,6 +187,7 @@ Multiview RGB images coupled with depth images are always the efficient ways to 
 - [Google / Visu3d](https://github.com/google-research/visu3d)
 - [Nvidia / Warp](https://github.com/NVIDIA/warp)
 - [Dear PyGUI](https://github.com/hoffstadt/DearPyGui)
+- [Pytorch3D](https://pytorch3d.org/)
   
 </details>
 

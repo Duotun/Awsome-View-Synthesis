@@ -64,6 +64,7 @@ Here is another collection of CVPR 2023 NeRF related papers: [NeRF-CVPR 2023](ht
 - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/), Tang et al, Arxiv |  [![Star](https://img.shields.io/github/stars/junshutang/Make-It-3D.svg?style=social&label=Star)](https://github.com/junshutang/Make-It-3D)
 - [AvatarReX: Real-time Expressive Full-body Avatars](https://liuyebin.com/AvatarRex/), Zheng et al, SIGGRAPH 2023
 - [3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models](https://1zb.github.io/3DShape2VecSet/), Zhang et al., SIGGRAPH 2023 | [![Star](https://img.shields.io/github/stars/1zb/3DShape2VecSet.svg?style=social&label=Star)](https://github.com/1zb/3DShape2VecSet) :star: 
+- [NeuManifold: Neural Watertight Manifold Reconstruction with Efficient and High-Quality Rendering Support](https://sarahweiii.github.io/neumanifold/), Wei et al., :star:
 </details>
 
 <details open>
@@ -188,6 +189,8 @@ Multiview RGB images coupled with depth images are always the efficient ways to 
 - [Nvidia / Warp](https://github.com/NVIDIA/warp)
 - [Dear PyGUI](https://github.com/hoffstadt/DearPyGui)
 - [Pytorch3D](https://pytorch3d.org/)
+- [TAPython](https://github.com/cgerchenhp/UE_TAPython_Plugin_Release), a Unreal Plugin for Coding Python
+- [NVDiffrast](https://github.com/NVlabs/nvdiffrast), a high performance differentialble rendering library
   
 </details>
 
